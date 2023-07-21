@@ -15,8 +15,9 @@ DoneDeal website data scraping using python
 
 
     More features to be added soon:-
-    Predictions
-    host website on local: for ex- "Sell any car - Price Avg" etcccc
-    Creating an API
-    and many more... :)
+    - Predictions
+    - host website on local: for ex- "Sell any car - Price Avg" etcccc
+    - Creating an API
+    - and many more... :)
    
+*** Many improvements can still be done I know within all the python codes, I am just learning at this time and keeping aside the fact about run- time, clean codes ***
