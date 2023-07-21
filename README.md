@@ -20,4 +20,5 @@ DoneDeal website data scraping using python
     - Creating an API
     - and many more... :)
    
-*** Many improvements can still be done I know within all the python codes, I am just learning at this time and keeping aside the fact about run- time, clean codes ***
+* Many improvements can still be done I know within all the python codes, I am just learning at this time and keeping aside the fact about run- time, clean codes 
+* I will work simplifying and cleaning up my code for better performace in the coming days alongside adding new features 
