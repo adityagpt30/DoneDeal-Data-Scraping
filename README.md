@@ -11,7 +11,8 @@ DoneDeal website data scraping using python
 8. SCP command to securely transfer files between local and remote host
 9. Data Cleaning within Jupyter notebook (Data Cleaning.ipyb)
 10. Data Visualizations (DoneDeal Visualizations.ipynb) (More to be added soon)
-11. Now working on predictions using ML Algos........
+11. Using SQLite or Pandas (which provides an interface to SQLite) in Python querying CSV file using SQL (Added feature to run sql queries) (SQLQueryRunOnCSV.py)
+12. Now working on predictions using ML Algos........
 
 
     More features to be added soon:-
