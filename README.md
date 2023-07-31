@@ -24,7 +24,7 @@ DoneDeal website data scraping using python
 
        Car Manufacturers: Car manufacturers can use mileage predictions to understand how fuel-efficient their new models are likely to be. This information can           help them make design and engineering decisions to improve the fuel efficiency of their vehicles, which can be a significant selling point for consumers            concerned about fuel costs and environmental impact.
 
-       Car Buyers: For car buyers, knowing the predicted mileage of a new car allows them to make informed decisions when purchasing a vehicle. A higher predicted         mileage means the car is expected to be more fuel-efficient, potentially saving the owner money on fuel expenses over time. Fuel efficiency is often an             essential consideration for car buyers, especially those who drive long distances frequently.(Car Mileage Prediction.ipynb)
+       Car Buyers: For car buyers, knowing the predicted mileage of a new car allows them to make informed decisions when purchasing a vehicle. A higher predicted         mileage means the car is expected to be more fuel-efficient, potentially saving the owner money on fuel expenses over time. Fuel efficiency is often an             essential consideration for car buyers, especially those who drive long distances frequently.(Car Mileage Prediction.ipynb) 
 
     4. 
 
