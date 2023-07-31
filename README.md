@@ -13,11 +13,20 @@ DoneDeal website data scraping using python
 10. Data Visualizations (DoneDeal Visualizations.ipynb) (More to be added soon)
 11. Using SQLite or Pandas (which provides an interface to SQLite) in Python querying CSV file using SQL (Added feature to run sql queries) (SQLQueryRunOnCSV.py)
 12. Predictions:
+    
     1. Car Price Fluctuation Analysis: Using time-series analysis to investigate the price fluctuations of cars from different brands over time. Separate time-            series plots for each car brand, showing how the average price of cars from that brand fluctuates over time. By examining these plots, you can gain insights        into the price trends and fluctuations for different car brands. (Car Price Fluctuation Analysis.ipynb)
    
     2. Popular Car brands: A simple analysis to find the most popular car brands, which can be achieved through basic data manipulation and aggregation.(Popular            car brands.ipynb)
        
-    3. Car Mileage Prediction: 
+    3. Car Mileage Prediction: A regression model to predict the mileage of a car based on other features like year, engine size, and engine type. This can be             helpful for buyers to estimate fuel efficiency. The "mileage predictions for new car data" refers to the predicted mileage (fuel efficiency) of a new car           based on its features. In this context, the features include the car's price, manufacturing year, and engine type. The prediction is made using a trained           machine learning model, specifically a Linear Regression model, which has learned patterns from historical data (existing car data) to make predictions for         new, unseen car data.
+
+       In general, predicting the mileage of a new car is valuable information for both car manufacturers and car buyers:
+
+       Car Manufacturers: Car manufacturers can use mileage predictions to understand how fuel-efficient their new models are likely to be. This information can           help them make design and engineering decisions to improve the fuel efficiency of their vehicles, which can be a significant selling point for consumers            concerned about fuel costs and environmental impact.
+
+       Car Buyers: For car buyers, knowing the predicted mileage of a new car allows them to make informed decisions when purchasing a vehicle. A higher predicted         mileage means the car is expected to be more fuel-efficient, potentially saving the owner money on fuel expenses over time. Fuel efficiency is often an             essential consideration for car buyers, especially those who drive long distances frequently.(Car Mileage Prediction.ipynb)
+
+    4. 
 
 14. Now working on predictions using ML Algos........
 
