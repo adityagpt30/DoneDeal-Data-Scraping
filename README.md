@@ -15,7 +15,7 @@ DoneDeal website data scraping using python
 12. Predictions:
     1. Car Price Fluctuation Analysis: Using time-series analysis to investigate the price fluctuations of cars from different brands over time. Separate time-            series plots for each car brand, showing how the average price of cars from that brand fluctuates over time. By examining these plots, you can gain insights        into the price trends and fluctuations for different car brands. (Car Price Fluctuation Analysis.ipynb)
    
-    2. Popular Car brands: A simple analysis to find the most popular car brands, which can be achieved through basic data manipulation and aggregation.
+    2. Popular Car brands: A simple analysis to find the most popular car brands, which can be achieved through basic data manipulation and aggregation.(Popular            car brands.ipynb)
        
     3. Car Mileage Prediction: 
 
