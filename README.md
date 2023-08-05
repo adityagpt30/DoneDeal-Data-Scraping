@@ -24,18 +24,12 @@ DoneDeal website data scraping using python
 
        Car Manufacturers: Car manufacturers can use mileage predictions to understand how fuel-efficient their new models are likely to be. This information can           help them make design and engineering decisions to improve the fuel efficiency of their vehicles, which can be a significant selling point for consumers            concerned about fuel costs and environmental impact.
 
-       Car Buyers: For car buyers, knowing the predicted mileage of a new car allows them to make informed decisions when purchasing a vehicle. A higher predicted         mileage means the car is expected to be more fuel-efficient, potentially saving the owner money on fuel expenses over time. Fuel efficiency is often an             essential consideration for car buyers, especially those who drive long distances frequently.(Car Mileage Prediction.ipynb) 
+       Car Buyers: For car buyers, knowing the predicted mileage of a new car allows them to make informed decisions when purchasing a vehicle. A higher predicted         mileage means the car is expected to be more fuel-efficient, potentially saving the owner money on fuel expenses over time. Fuel efficiency is often an             essential consideration for car buyers, especially those who drive long distances frequently.(Car Mileage Prediction.ipynb)
 
-    4. 
+    4.    
 
-14. Now working on predictions using ML Algos........
+    5. Could have done Car price predictions but doesnt have the complete dataset (like Car Model) :(
 
-
-    More features to be added soon:-
-    - Predictions
-    - host website on local: for ex- "Sell any car - Price Avg" etcccc
-    - Creating an API
-    - and many more... :)
    
 * Many improvements can still be done I know within all the python codes, I am just learning at this time and keeping aside the fact about run- time, clean codes 
 * I will work on simplifying and cleaning up my code for better performace in the coming days alongside adding new features 
